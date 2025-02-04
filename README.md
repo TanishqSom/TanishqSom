@@ -1,8 +1,3 @@
 - 👋 Hi, I’m @TanishqSom
-- 👀 I’m interested in Artificial Intelligence, Robotics, Web development, Ethical Hacking.
-- 🌱 I’m currently learning Game Development
-
-<!---
-TanishqSom/TanishqSom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I am a dynamic and skilled professional with a passion for innovation. A Successful track record as a Freelancer on platforms like Upwork and Fiverr, coupled with active participation in events and competitions.
+- My mindset helped me learn industry skills like Web Development, Automation, Robotics, Artificial Intelligence, Machine Learning, etc., and apply those skills in comprehensive innovative projects showcasing my skills and interest in the field.
