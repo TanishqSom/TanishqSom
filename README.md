@@ -62,5 +62,3 @@ Others:          PyInstaller, PIL, GitHub Actions, Figma
 ---
 
 > "My curiosity doesn’t end with questions — I engineer answers."
-
-```
